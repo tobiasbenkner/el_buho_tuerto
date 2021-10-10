@@ -1,0 +1,149 @@
+[
+    {
+        "title": "Entrantes",
+        "foods": [
+            {
+                "title": "Empanada de Carne",
+                "subtitle": "Das ist ein Subtitle",
+                "price": "2.50€",
+                "allergies": [
+                    "egg",
+                    "gluten"
+                ],
+                "img": "assets/images/menu/starters.jpg"
+            },
+            {
+                "title": "Empanada de Humita",
+                "subtitle": "",
+                "price": "2.30€",
+                "allergies": [
+                    "egg",
+                    "gluten",
+                    "lacotsa"
+                ],
+                "special": "Vegetarian"
+            },
+            {
+                "title": "Empanada de Espinaca",
+                "subtitle": "Das ist ein weiterer Subtitle",
+                "price": "2.30€",
+                "allergies": [
+                    "egg",
+                    "gluten",
+                    "lacotsa"
+                ],
+                "special": "New"
+            },
+            {
+                "title": "Empanada de Molleja",
+                "subtitle": "",
+                "price": "3.20€",
+                "allergies": [
+                    "egg",
+                    "gluten"
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Carnes a la brasa",
+        "foods": [
+            {
+                "title": "Chultetón de vaca curado (Galicia)",
+                "subtitle": "Las carnes provienen de vacas de razas autóctonas de Galicia (rubia gallega, caldelá, limiá, cachena, vianesa, frieiresa...) con una maduración que hace que tenga un aroma y un sabor inigualable",
+                "price": "39.90€ (Kilo)",
+                "allergies": []
+            },
+            {
+                "title": "Tira de asado",
+                "subtitle": "El asado de tira se obtiene con el corte transversal del costillar de la res. Se encuentra en medio de otros dos clásicos cortes: las costillas, del lado más cercano a la columna vertbral",
+                "price": "11.50€",
+                "allergies": []
+            },
+            {
+                "title": "Solomillo",
+                "subtitle": "El solomillo es una pieza de carne procedente de la parte lumbar, alojado entre las costillas inferiores y la columna vertebral",
+                "price": "16.90€",
+                "allergies": []
+            },
+            {
+                "title": "Entraña",
+                "subtitle": "La entraña es un corte que corresponde a la parte periférica del diagragma del animal. Carne de color muy rojizo oscuro con una capa de cubre la carne y hace que al asarse sea más tierna y sabrosa",
+                "price": "12.90€",
+                "allergies": []
+            },
+            {
+                "title": "Entrecot",
+                "subtitle": "Es un corte de carne de la región dorsal, que contiene un músculo o más bien un conjunto de músculos del llamado Erector spinae, el cual recorre la espina dorsal de los mamíferos",
+                "price": "14.90€",
+                "allergies": []
+            },
+            {
+                "title": "Lomo alto",
+                "subtitle": "Es una carne limpia y sabrosa que se encuentra en la parte delantera del lomo y se caracteriza por su aspecto jugoso y su inflitración de grasa",
+                "price": "15.90€",
+                "allergies": []
+            },
+            {
+                "title": "Secreto ibérico",
+                "subtitle": "El secreto ibérico es quizá el corte más conocido dentro del ibérico. Su grasa inflitrada le aporta ese veteado blanco tan característico.",
+                "price": "13.90€",
+                "allergies": []
+            },
+            {
+                "title": "Costialla de cerdo",
+                "subtitle": "Las costiallas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes o´seas de la caja torácica",
+                "price": "9.90€",
+                "allergies": []
+            },
+            {
+                "title": "Matambre de cerdo a la fugazzeta",
+                "subtitle": "El Matambre a la Gugazzeta a la Parrilla es un plato típico, una variante del famoso Matambre a la Pizza. Un plato infaltable en el asado Argentino.",
+                "price": "14.90€",
+                "allergies": []
+            },
+            {
+                "title": "Medio pollo",
+                "subtitle": "",
+                "price": "9.90€",
+                "allergies": []
+            },
+            {
+                "title": "Pamplona de pollo",
+                "subtitle": "Relleno con zeta y bacón o panceta ahumada o jamón y queso",
+                "price": "9.90€",
+                "allergies": []
+            }
+            
+        ]
+    },
+    {
+        "title": "Cocina Argentina",
+        "foods": []
+    },
+    {
+        "title": "Postres",
+        "foods": []
+    },
+    {
+        "title": "Bebidas",
+        "foods": []
+    },
+    {
+        "title": "Vinos tintos",
+        "foods": []
+    },
+    {
+        "title": "Vinos blancos",
+        "foods": []
+    },
+    {
+        "title": "Vinos argentinos",
+        "foods": []
+    },
+    {
+        "title": "Puntos de la Carne",
+        "foods": []
+    }
+    
+]
