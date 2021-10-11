@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/el_buho_tuerto/static/css/main.cd5b3012.chunk.css",
-    "main.js": "/el_buho_tuerto/static/js/main.1096bad0.chunk.js",
-    "main.js.map": "/el_buho_tuerto/static/js/main.1096bad0.chunk.js.map",
+    "main.css": "/el_buho_tuerto/static/css/main.fee15c13.chunk.css",
+    "main.js": "/el_buho_tuerto/static/js/main.adf5699d.chunk.js",
+    "main.js.map": "/el_buho_tuerto/static/js/main.adf5699d.chunk.js.map",
     "runtime-main.js": "/el_buho_tuerto/static/js/runtime-main.f67e2f55.js",
     "runtime-main.js.map": "/el_buho_tuerto/static/js/runtime-main.f67e2f55.js.map",
     "static/js/2.59a9d132.chunk.js": "/el_buho_tuerto/static/js/2.59a9d132.chunk.js",
     "static/js/2.59a9d132.chunk.js.map": "/el_buho_tuerto/static/js/2.59a9d132.chunk.js.map",
     "index.html": "/el_buho_tuerto/index.html",
-    "static/css/main.cd5b3012.chunk.css.map": "/el_buho_tuerto/static/css/main.cd5b3012.chunk.css.map",
+    "static/css/main.fee15c13.chunk.css.map": "/el_buho_tuerto/static/css/main.fee15c13.chunk.css.map",
     "static/js/2.59a9d132.chunk.js.LICENSE.txt": "/el_buho_tuerto/static/js/2.59a9d132.chunk.js.LICENSE.txt",
     "static/media/index.scss": "/el_buho_tuerto/static/media/restaurant.8e9587aa.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f67e2f55.js",
     "static/js/2.59a9d132.chunk.js",
-    "static/css/main.cd5b3012.chunk.css",
-    "static/js/main.1096bad0.chunk.js"
+    "static/css/main.fee15c13.chunk.css",
+    "static/js/main.adf5699d.chunk.js"
   ]
 }
