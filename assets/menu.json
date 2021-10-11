@@ -811,7 +811,44 @@
     },
     {
         "title": "Vinos argentinos",
-        "foods": []
+        "foods": [
+            {
+                "title": "Trapiche Malbec",
+                "subtitle": "Bodegas trapiche Mendoza<br />D.O. Mendoza Argentina<br />Variedad: 100% Malbec",
+                "price": "17.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "13% vol"
+            },
+            {
+                "title": "Trapiche Cabernet Sauvignon",
+                "subtitle": "Bodegas trapiche Mendoza<br />D.O. Mendoza Argentina<br />Variedad: 100% Cabernet Sauvignon",
+                "price": "17.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "17% vol"
+            },
+            {
+                "title": "Norton Malbec",
+                "subtitle": "Bodegas Norton<br />D.O. Argentina<br />Variedad: 100% Malbec",
+                "price": "17.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "13% vol"
+            },
+            {
+                "title": "Norton Cabernet Sauvignon",
+                "subtitle": "Bodegas Norton Mendoza<br />D.O. Argentina<br />Variedad: 100% Cabernet Sauvignon",
+                "price": "17.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "14% vol"
+            }
+        ]
     },
     {
         "title": "Puntos de la Carne",
