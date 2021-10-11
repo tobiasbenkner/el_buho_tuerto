@@ -439,25 +439,23 @@
                 },
                 {
                     "title": "Helado de Vainilla",
-                    "subtitle": "",
+                    "subtitle": "2 Bolas",
                     "price": "2.50€",
                     "allergies": [
                         "lactose",
                         "eggs",
                         "gluten"
-                    ],
-                    "special": "2 Bolas"
+                    ]
                 },
                 {
                     "title": "Helado de Dulce de Leche",
-                    "subtitle": "",
+                    "subtitle": "2 Bolas",
                     "price": "2.90€",
                     "allergies": [
                         "lactose",
                         "eggs",
                         "gluten"
-                    ],
-                    "special": "2 Bolas"
+                    ]
                 },
                 {
                     "title": "Extra Dulce de Leche",
