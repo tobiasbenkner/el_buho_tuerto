@@ -30,7 +30,7 @@
                     "subtitle": "",
                     "price": "2.50€",
                     "allergies": [
-                        "egg",
+                        "eggs",
                         "gluten"
                     ],
                     "img": "assets/images/menu/starters.jpg"
@@ -40,9 +40,9 @@
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
-                        "egg",
+                        "eggs",
                         "gluten",
-                        "lacotsa"
+                        "lactose"
                     ],
                     "special": "Vegetariana"
                 },
@@ -51,9 +51,9 @@
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
-                        "egg",
+                        "eggs",
                         "gluten",
-                        "lacotsa"
+                        "lactose"
                     ],
                     "special": "Vegetariana"
                 },
@@ -62,7 +62,7 @@
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
-                        "egg",
+                        "eggs",
                         "gluten"
                     ]
                 },
