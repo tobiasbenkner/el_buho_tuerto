@@ -633,7 +633,7 @@
                 "special": "14% vol"
             },
             {
-                "title": "Loópez de Haro Edición Limitada",
+                "title": "López de Haro Edición Limitada",
                 "subtitle": "Bodega Hacienda López de Haro<br />D.O.CA. Rioja<br />Variedad: tempranillo, Mazuelo Tinto Gran Reserva",
                 "price": "20.00€",
                 "allergies": [
@@ -761,7 +761,53 @@
     },
     {
         "title": "Vinos blancos",
-        "foods": []
+        "foods": [
+            {
+                "title": "Pierola Joven",
+                "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ca. Rioja<br />Variedad: 100% Tempranillo blanco",
+                "price": "15.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "13% vol"
+            },
+            {
+                "title": "Syatho Blanco Seco",
+                "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ca. Rioja<br />Variedad: 100% Verdejo",
+                "price": "16.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "13% vol"
+            },
+            {
+                "title": "FYA Semidulce",
+                "subtitle": "Bodegas FyA grupo Piérola<br />D.O. Rioja<br />Variedad: 75% Malvasía, 25% Viura",
+                "price": "15.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "13% vol"
+            },
+            {
+                "title": "La Grieta Blanco Joven",
+                "subtitle": "Bodegas Malpaís de Maguez<br />D.O. Lanzarote<br />Variedad: Malvasía Volcánica",
+                "price": "18.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "12% vol"
+            },
+            {
+                "title": "Saviba blanco seco",
+                "subtitle": "Bodegas Viticultores de Barros<br />D.O. Extremadura",
+                "price": "11.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": ""
+            }
+        ]
     },
     {
         "title": "Vinos argentinos",
