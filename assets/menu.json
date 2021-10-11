@@ -454,7 +454,162 @@
     },
     {
         "title": "Bebidas",
-        "foods": []
+        "foods": [
+            {
+                "title": "Caña pequeña",
+                "subtitle": "",
+                "price": "1.60€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Caña mediana",
+                "subtitle": "",
+                "price": "1.80€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Clara de grifo",
+                "subtitle": "",
+                "price": "2.20€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Jarra",
+                "subtitle": "",
+                "price": "3.90€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Cerveza Estrella Damm",
+                "subtitle": "",
+                "price": "1.80€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special" : "5.4% vol"
+            },
+            {
+                "title": "Estrella Damm con limón",
+                "subtitle": "",
+                "price": "1.80€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special" : "3.2% vol"
+            },
+            {
+                "title": "Cerveza s/a Free Damm",
+                "subtitle": "",
+                "price": "1.80€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "sin alcohol"
+            },
+            {
+                "title": "Cerveza s/a con limón Free Damm",
+                "subtitle": "",
+                "price": "1.80€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special" : "sin alcohol"
+            },
+            {
+                "title": "Appletiser 100%",
+                "subtitle": "zumo Manzana",
+                "price": "2.00€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special" : "sin alcohol"
+            },
+            {
+                "title": "Nestea",
+                "subtitle": "",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Zumo envasado",
+                "subtitle": "Lambra Sabores Tropicales",
+                "price": "1.50€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Agua firgas c/s gaso",
+                "subtitle": "0.50 cl",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Agua firgas c/s gaso",
+                "subtitle": "0.33 cl",
+                "price": "1.60€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Sprite",
+                "subtitle": "350 ml",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Coca-Cola",
+                "subtitle": "350 ml",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Coca-Cola Zero",
+                "subtitle": "350 ml",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Coca-Cola Light",
+                "subtitle": "350 ml",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Fantá límon",
+                "subtitle": "350 ml",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Fantá Naranja",
+                "subtitle": "350 ml",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Toníca",
+                "subtitle": "",
+                "price": "2.00€",
+                "allergies": [
+                ]
+            }
+        ]
     },
     {
         "title": "Vinos tintos",
