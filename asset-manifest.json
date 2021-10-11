@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/el_buho_tuerto/static/css/main.1d2053ba.chunk.css",
-    "main.js": "/el_buho_tuerto/static/js/main.25fd1b5c.chunk.js",
-    "main.js.map": "/el_buho_tuerto/static/js/main.25fd1b5c.chunk.js.map",
+    "main.js": "/el_buho_tuerto/static/js/main.a42c71a3.chunk.js",
+    "main.js.map": "/el_buho_tuerto/static/js/main.a42c71a3.chunk.js.map",
     "runtime-main.js": "/el_buho_tuerto/static/js/runtime-main.f67e2f55.js",
     "runtime-main.js.map": "/el_buho_tuerto/static/js/runtime-main.f67e2f55.js.map",
     "static/js/2.59a9d132.chunk.js": "/el_buho_tuerto/static/js/2.59a9d132.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.f67e2f55.js",
     "static/js/2.59a9d132.chunk.js",
     "static/css/main.1d2053ba.chunk.css",
-    "static/js/main.25fd1b5c.chunk.js"
+    "static/js/main.a42c71a3.chunk.js"
   ]
 }
