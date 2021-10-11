@@ -4,7 +4,7 @@
         "foods": [
             {
                 "title": "Empanada de Carne",
-                "subtitle": "Das ist ein Subtitle",
+                "subtitle": "",
                 "price": "2.50€",
                 "allergies": [
                     "egg",
@@ -21,18 +21,18 @@
                     "gluten",
                     "lacotsa"
                 ],
-                "special": "Vegetarian"
+                "special": "Vegetariana"
             },
             {
                 "title": "Empanada de Espinaca",
-                "subtitle": "Das ist ein weiterer Subtitle",
+                "subtitle": "",
                 "price": "2.30€",
                 "allergies": [
                     "egg",
                     "gluten",
                     "lacotsa"
                 ],
-                "special": "New"
+                "special": "Vegetariana"
             },
             {
                 "title": "Empanada de Molleja",
@@ -42,6 +42,160 @@
                     "egg",
                     "gluten"
                 ]
+            },
+            {
+                "title": "Chorizo parrillero",
+                "subtitle": "",
+                "price": "2.90€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Morcilla Dulce y Salada",
+                "subtitle": "",
+                "price": "3.00€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Molleja de ternera",
+                "subtitle": "",
+                "price": "10.90€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Salchichas Parrilleras El Búho Tuerto",
+                "subtitle": "Salchichas, mozarela, provolone, cebollas",
+                "price": "7.90€",
+                "allergies": [
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Queso provolone",
+                "subtitle": "",
+                "price": "7.50€",
+                "allergies": [
+                    "lactose"
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Parrillada de verduras",
+                "subtitle": "Calabacín, cebolla, tomates, esparragos, zetas, berenjenas, millo, pimientos asados",
+                "price": "8.50€",
+                "allergies": [
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Huevos rotos con pimientos al Alba",
+                "subtitle": "",
+                "price": "7.50€",
+                "allergies": [
+                    "eggs"
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Huevos rotos con chistorra",
+                "subtitle": "",
+                "price": "8.50€",
+                "allergies": [
+                    "eggs",
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Huevos rotos con chorizo",
+                "subtitle": "",
+                "price": "8.00€",
+                "allergies": [
+                    "eggs",
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Huevos rotos con jamón",
+                "subtitle": "",
+                "price": "8.90€",
+                "allergies": [
+                    "eggs",
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Mixta con atún",
+                "subtitle": "Tomate, zenahoria, cebolla, aceitunas, millo, atún",
+                "price": "6.00€",
+                "allergies": [
+                    "fish",
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Mixta Argentina",
+                "subtitle": "Tomate, lechuga, cebolla",
+                "price": "5.00€",
+                "allergies": [
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Ensalada el Búhu Tuerto",
+                "subtitle": "Tomate cherry, rúcula, aguacate, palmitos, cebolla",
+                "price": "8.90€",
+                "allergies": [
+                    "sulphites"
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Ensalada rulo de cabra",
+                "subtitle": "Tomate, lechuga, frutos secos, cebolla caramelizada",
+                "price": "8.90€",
+                "allergies": [
+                    "lactose",
+                    "eggs"
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Ensalada rulo de rúcula",
+                "subtitle": "Tomate, rúcula, queso parmesano, pimiento asado",
+                "price": "8.90€",
+                "allergies": [
+                    "lactose"
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Papas Panadera",
+                "subtitle": "",
+                "price": "3.00€",
+                "allergies": [
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Papas Fritas",
+                "subtitle": "",
+                "price": "2.50€",
+                "allergies": [
+                ],
+                "special": "Vegetariana"
+            },
+            {
+                "title": "Pimientos asados",
+                "subtitle": "",
+                "price": "3.00€",
+                "allergies": [
+                ],
+                "special": "Vegetariana"
             }
         ]
     },
@@ -119,11 +273,184 @@
     },
     {
         "title": "Cocina Argentina",
-        "foods": []
+        "foods": [
+            {
+                "title": "Milanesa de ternera",
+                "subtitle": "Ternera empanada",
+                "price": "10.00€",
+                "allergies": [
+                    "gluten",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Milanesa de pollo",
+                "subtitle": "Pollo empanado",
+                "price": "7.90€",
+                "allergies": [
+                    "gluten",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Milanesa de ternera a la Napolitana",
+                "subtitle": "Ternera empanada con salsa de tomate y mozzarela",
+                "price": "12.50€",
+                "allergies": [
+                    "gluten",
+                    "eggs",
+                    "lactose"
+                ]
+            },
+            {
+                "title": "Milanesa de pollo a la Napolitana",
+                "subtitle": "Pollo empanada con salsa de tomate y mozzarela",
+                "price": "10.50€",
+                "allergies": [
+                    "gluten",
+                    "eggs",
+                    "lactose"
+                ]
+            },
+            {
+                "title": "Milanesa de ternera a caballo",
+                "subtitle": "Ternera empanada con papas fritas, huevo frito montado",
+                "price": "10.50€",
+                "allergies": [
+                    "gluten",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Milanesa de pollo a caballo",
+                "subtitle": "Pollo empanado con papas fritas, huevo frito montado",
+                "price": "8.50€",
+                "allergies": [
+                    "gluten",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Milanesa de ternera a la napolitana a caballo",
+                "subtitle": "Ternera empanada con salsa de tomate y mozzarela, huevo frito montado",
+                "price": "13.50€",
+                "allergies": [
+                    "gluten",
+                    "eggs",
+                    "lactose"
+                ]
+            },
+            {
+                "title": "Milanesa de pollo a la napolitana a caballo",
+                "subtitle": "Pollo empanad0 con salsa de tomate y mozzarela, huevo frito montado",
+                "price": "11.50€",
+                "allergies": [
+                    "gluten",
+                    "eggs",
+                    "lactose"
+                ]
+            }
+        ]
     },
     {
         "title": "Postres",
-        "foods": []
+        "foods": [
+            {
+                "title": "Crumbell de Manzana",
+                "subtitle": "",
+                "price": "4.20€",
+                "allergies": [
+                    "gluten",
+                    "lactose"
+                ]
+            },
+            {
+                "title": "Polvito Uruguayo",
+                "subtitle": "",
+                "price": "3.50€",
+                "allergies": [
+                    "gluten",
+                    "lactose",
+                    "sulphites",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Semifrío con Oreo",
+                "subtitle": "",
+                "price": "3.50€",
+                "allergies": [
+                    "gluten",
+                    "lactose",
+                    "sulphites"
+                ]
+            },
+            {
+                "title": "Tarta de Chocolate",
+                "subtitle": "",
+                "price": "3.20€",
+                "allergies": [
+                    "gluten",
+                    "lactose",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Crepe de dulce de leche o chocolate",
+                "subtitle": "",
+                "price": "3.80€",
+                "allergies": [
+                    "gluten",
+                    "lactose",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Flan Casero",
+                "subtitle": "",
+                "price": "3.20€",
+                "allergies": [
+                    "lactose",
+                    "eggs"
+                ]
+            },
+            {
+                "title": "Helado de Vainilla",
+                "subtitle": "",
+                "price": "2.50€",
+                "allergies": [
+                    "lactose",
+                    "eggs",
+                    "gluten"
+                ],
+                "special": "2 Bolas"
+            },
+            {
+                "title": "Helado de Dulce de Leche",
+                "subtitle": "",
+                "price": "2.90€",
+                "allergies": [
+                    "lactose",
+                    "eggs",
+                    "gluten"
+                ],
+                "special": "2 Bolas"
+            },
+            {
+                "title": "Extra Dulce de Leche",
+                "subtitle": "",
+                "price": "1.00€",
+                "allergies": [
+                ]
+            },
+            {
+                "title": "Extra de Nata",
+                "subtitle": "",
+                "price": "0.50€",
+                "allergies": [
+                ]
+            }
+        ]
     },
     {
         "title": "Bebidas",
