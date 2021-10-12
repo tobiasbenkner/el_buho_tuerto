@@ -294,11 +294,11 @@
             ]
         },
         {
-            "title": "Cocina Argentina",
+            "title": "Argentinische Küche",
             "foods": [
                 {
-                    "title": "Milanesa de ternera",
-                    "subtitle": "Ternera empanada",
+                    "title": "Kalbsschnitzel",
+                    "subtitle": "",
                     "price": "10.00€",
                     "allergies": [
                         "gluten",
@@ -306,8 +306,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo",
-                    "subtitle": "Pollo empanado",
+                    "title": "Hühnerschnitzel",
+                    "subtitle": "",
                     "price": "7.90€",
                     "allergies": [
                         "gluten",
@@ -315,8 +315,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la Napolitana",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela",
+                    "title": "Kalbsschnitzel a la Napoli",
+                    "subtitle": "Paniertes Kalbfleisch mit Tomaten-Mozzarella-Sauce",
                     "price": "12.50€",
                     "allergies": [
                         "gluten",
@@ -325,8 +325,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la Napolitana",
-                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela",
+                    "title": "Hühnerschnitzel a la Napoli",
+                    "subtitle": "Paniertes Hühnerfleisch mit Tomaten-Mozzarella-Sauce",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -335,8 +335,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a caballo",
-                    "subtitle": "Ternera empanada con papas fritas, huevo frito montado",
+                    "title": "Kalbsschnitzel a la Caballo",
+                    "subtitle": "Paniertes Kalbsfleisch mit Pommes und Spiegelei",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -344,8 +344,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a caballo",
-                    "subtitle": "Pollo empanado con papas fritas, huevo frito montado",
+                    "title": "Hühnerschnitzel a la caballo",
+                    "subtitle": "Paniertes Hühnerfleisch mit Pommes und Spiegelei",
                     "price": "8.50€",
                     "allergies": [
                         "gluten",
@@ -353,8 +353,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la napolitana a caballo",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Kalbsschnitzel a la Napoli und Caballo",
+                    "subtitle": "Paniertes Kalbsfleisch mit Pommes, Spiegelei und Tomaten-Mozzarella-Sauce",
                     "price": "13.50€",
                     "allergies": [
                         "gluten",
@@ -363,8 +363,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la napolitana a caballo",
-                    "subtitle": "Pollo empanad0 con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Hähnchenschnitzel a la Napoli und Caballo",
+                    "subtitle": "Paniertes Kalbsfleisch mit Pommes, Spiegelei und Tomaten-Mozzarella-Sauce",
                     "price": "11.50€",
                     "allergies": [
                         "gluten",
