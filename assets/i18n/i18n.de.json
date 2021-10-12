@@ -473,10 +473,10 @@
             ]
         },
         {
-            "title": "Bebidas",
+            "title": "Getränke",
             "foods": [
                 {
-                    "title": "Caña pequeña",
+                    "title": "Kleines gezapftes Bier",
                     "subtitle": "",
                     "price": "1.60€",
                     "allergies": [
@@ -484,7 +484,7 @@
                     ]
                 },
                 {
-                    "title": "Caña mediana",
+                    "title": "Gezapftes Bier",
                     "subtitle": "",
                     "price": "1.80€",
                     "allergies": [
@@ -492,15 +492,7 @@
                     ]
                 },
                 {
-                    "title": "Clara de grifo",
-                    "subtitle": "",
-                    "price": "2.20€",
-                    "allergies": [
-                        "sulphites"
-                    ]
-                },
-                {
-                    "title": "Jarra",
+                    "title": "Großes gezapftes Bier",
                     "subtitle": "",
                     "price": "3.90€",
                     "allergies": [
@@ -508,7 +500,15 @@
                     ]
                 },
                 {
-                    "title": "Cerveza Estrella Damm",
+                    "title": "Radler",
+                    "subtitle": "",
+                    "price": "2.20€",
+                    "allergies": [
+                        "sulphites"
+                    ]
+                },
+                {
+                    "title": "Bier Estrella Damm",
                     "subtitle": "",
                     "price": "1.80€",
                     "allergies": [
@@ -517,7 +517,7 @@
                     "special" : "5.4% vol"
                 },
                 {
-                    "title": "Estrella Damm con limón",
+                    "title": "Bier Estrella Damm mit Zitronenlimonade",
                     "subtitle": "",
                     "price": "1.80€",
                     "allergies": [
@@ -526,55 +526,55 @@
                     "special" : "3.2% vol"
                 },
                 {
-                    "title": "Cerveza s/a Free Damm",
+                    "title": "Alkoholfreies Bier Damm",
                     "subtitle": "",
                     "price": "1.80€",
                     "allergies": [
                         "sulphites"
                     ],
-                    "special": "sin alcohol"
+                    "special": "alkoholfrei"
                 },
                 {
-                    "title": "Cerveza s/a con limón Free Damm",
+                    "title": "Alkoholfreies Radler Damm",
                     "subtitle": "",
                     "price": "1.80€",
                     "allergies": [
                         "sulphites"
                     ],
-                    "special" : "sin alcohol"
+                    "special" : "alkoholfrei"
                 },
                 {
                     "title": "Appletiser 100%",
-                    "subtitle": "zumo Manzana",
+                    "subtitle": "Apfelsaft mit Kohlensäure",
                     "price": "2.00€",
                     "allergies": [
                         "sulphites"
                     ],
-                    "special" : "sin alcohol"
+                    "special" : "alkoholfrei"
                 },
                 {
                     "title": "Nestea",
-                    "subtitle": "",
+                    "subtitle": "Eistee",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Zumo envasado",
+                    "title": "Multivitaminsaft",
                     "subtitle": "Lambra Sabores Tropicales",
                     "price": "1.50€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Agua firgas c/s gaso",
+                    "title": "Mineralwasser mit und ohne Kohlensäure",
                     "subtitle": "0.50 cl",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Agua firgas c/s gaso",
+                    "title": "Mineralwasser mit und ohne Kohlensäure",
                     "subtitle": "0.33 cl",
                     "price": "1.60€",
                     "allergies": [
@@ -609,21 +609,21 @@
                     ]
                 },
                 {
-                    "title": "Fantá límon",
+                    "title": "Fanta Zitrone",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Fantá Naranja",
+                    "title": "Fanta",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Toníca",
+                    "title": "Tonic Water",
                     "subtitle": "",
                     "price": "2.00€",
                     "allergies": [
