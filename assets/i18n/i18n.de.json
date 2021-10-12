@@ -632,11 +632,11 @@
             ]
         },
         {
-            "title": "Vinos tintos",
+            "title": "Rotwein",
             "foods": [
                 {
                     "title": "Pierola",
-                    "subtitle": "Bogedas Fernández de Piérola<br />D.O.Ca. Rioja<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodedas Fernández de Piérola<br />D.O.Ca. Rioja<br />Sorte: 100% Tempranillo",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -645,7 +645,7 @@
                 },
                 {
                     "title": "López de Haro crianza",
-                    "subtitle": "Bodega Hacienda López de Haro<br />D.O.CA. Rioja<br />Variedad: 90% Tempranillo, 10% Graciano",
+                    "subtitle": "Bodega Hacienda López de Haro<br />D.O.CA. Rioja<br />Sorte: 90% Tempranillo, 10% Graciano",
                     "price": "16.00€",
                     "allergies": [
                         "sulphites"
@@ -654,7 +654,7 @@
                 },
                 {
                     "title": "López de Haro Edición Limitada",
-                    "subtitle": "Bodega Hacienda López de Haro<br />D.O.CA. Rioja<br />Variedad: tempranillo, Mazuelo Tinto Gran Reserva",
+                    "subtitle": "Bodega Hacienda López de Haro<br />D.O.CA. Rioja<br />Sorte: Tempranillo, Mazuelo Tinto Gran Reserva",
                     "price": "20.00€",
                     "allergies": [
                         "sulphites"
@@ -663,7 +663,7 @@
                 },
                 {
                     "title": "Cueva de lobos",
-                    "subtitle": "Bodegas San Pedro Ortega<br />D.O.Ca. Rioja<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodegas San Pedro Ortega<br />D.O.Ca. Rioja<br />Sorte: 100% Tempranillo",
                     "price": "16.00€",
                     "allergies": [
                         "sulphites"
@@ -672,7 +672,7 @@
                 },
                 {
                     "title": "El Jardín de la Emperatriz",
-                    "subtitle": "Bodega Viñedos Hermanos Hernáiz (Finca La Emperatriz)<br />D.O.Ca. Rioja<br />Variedad: Tempranillo y viura (macabeo)",
+                    "subtitle": "Bodega Viñedos Hermanos Hernáiz (Finca La Emperatriz)<br />D.O.Ca. Rioja<br />Sorte: Tempranillo und Viura (macabeo)",
                     "price": "18.00€",
                     "allergies": [
                         "sulphites"
@@ -681,7 +681,7 @@
                 },
                 {
                     "title": "Viuda Negra",
-                    "subtitle": "Bodegas San Pedro Ortega<br />D.O.Ca. Rioja<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodegas San Pedro Ortega<br />D.O.Ca. Rioja<br />Sorte: 100% Tempranillo",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -690,7 +690,7 @@
                 },
                 {
                     "title": "Carmelo Rodero",
-                    "subtitle": "Bodegas Rodero<br />D.O. Ribera del Duero<br />Variedad: Tempranillo 90% y 10% Cabernet Sauvignon",
+                    "subtitle": "Bodegas Rodero<br />D.O. Ribera del Duero<br />Sorte: Tempranillo 90% und 10% Cabernet Sauvignon",
                     "price": "27.00€",
                     "allergies": [
                         "sulphites"
@@ -699,7 +699,7 @@
                 },
                 {
                     "title": "Carmelo Rodero 9 Meses",
-                    "subtitle": "Bodegas Rodero<br />D.O.Ribera del Duero<br />Variedad: Tempranillo",
+                    "subtitle": "Bodegas Rodero<br />D.O.Ribera del Duero<br />Sorte: Tempranillo",
                     "price": "19.00€",
                     "allergies": [
                         "sulphites"
@@ -708,7 +708,7 @@
                 },
                 {
                     "title": "Valduero",
-                    "subtitle": "Bodegas Valduero<br />D.O.Ribera del Duero<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodegas Valduero<br />D.O.Ribera del Duero<br />Sorte: 100% Tempranillo",
                     "price": "27.00€",
                     "allergies": [
                         "sulphites"
@@ -717,7 +717,7 @@
                 },
                 {
                     "title": "Carmelo Rodero Joven",
-                    "subtitle": "Bodegas Rodero<br />D.O.Ribera del Duero<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodegas Rodero<br />D.O.Ribera del Duero<br />Sorte: 100% Tempranillo",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -726,7 +726,7 @@
                 },
                 {
                     "title": "Traslascuestas",
-                    "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ribera del Duero<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ribera del Duero<br />Sorte: 100% Tempranillo",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -735,7 +735,7 @@
                 },
                 {
                     "title": "Meloso",
-                    "subtitle": "Bodegas Arrocal<br />D.O.Ribera del Duero<br />Variedad: 100% Tempranillo",
+                    "subtitle": "Bodegas Arrocal<br />D.O.Ribera del Duero<br />Sorte: 100% Tempranillo",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -744,7 +744,7 @@
                 },
                 {
                     "title": "Bardos",
-                    "subtitle": "Bodegas Bardos<br />D.O.Ribera del Duero<br />Variedad: Cabernet sauvignon",
+                    "subtitle": "Bodegas Bardos<br />D.O.Ribera del Duero<br />Sorte: Cabernet sauvignon",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -753,7 +753,7 @@
                 },
                 {
                     "title": "Matsu el Pícaro",
-                    "subtitle": "Bodegas Matsu<br />D.O. CaToro<br />Variedad: 100% Tinta de Toro",
+                    "subtitle": "Bodegas Matsu<br />D.O. CaToro<br />Sorte: 100% Tinta de Toro",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -762,7 +762,7 @@
                 },
                 {
                     "title": "Matsu el Recio",
-                    "subtitle": "Bodegas Matsu<br />D.O. CaToro<br />Variedad: 100% Tinta de Toro",
+                    "subtitle": "Bodegas Matsu<br />D.O. CaToro<br />Sorte: 100% Tinta de Toro",
                     "price": "20.00€",
                     "allergies": [
                         "sulphites"
@@ -780,11 +780,11 @@
             ]
         },
         {
-            "title": "Vinos blancos",
+            "title": "Weißwein",
             "foods": [
                 {
                     "title": "Pierola Joven",
-                    "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ca. Rioja<br />Variedad: 100% Tempranillo blanco",
+                    "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ca. Rioja<br />Sorte: 100% Tempranillo blanco",
                     "price": "15.00€",
                     "allergies": [
                         "sulphites"
@@ -793,7 +793,7 @@
                 },
                 {
                     "title": "Syatho Blanco Seco",
-                    "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ca. Rioja<br />Variedad: 100% Verdejo",
+                    "subtitle": "Bodegas Fernández de Pieérola<br />D.O.Ca. Rioja<br />Sorte: 100% Verdejo",
                     "price": "16.00€",
                     "allergies": [
                         "sulphites"
@@ -802,7 +802,7 @@
                 },
                 {
                     "title": "FYA Semidulce",
-                    "subtitle": "Bodegas FyA grupo Piérola<br />D.O. Rioja<br />Variedad: 75% Malvasía, 25% Viura",
+                    "subtitle": "Bodegas FyA grupo Piérola<br />D.O. Rioja<br />Sorte: 75% Malvasía, 25% Viura",
                     "price": "15.00€",
                     "allergies": [
                         "sulphites"
@@ -811,7 +811,7 @@
                 },
                 {
                     "title": "La Grieta Blanco Joven",
-                    "subtitle": "Bodegas Malpaís de Maguez<br />D.O. Lanzarote<br />Variedad: Malvasía Volcánica",
+                    "subtitle": "Bodegas Malpaís de Maguez<br />D.O. Lanzarote<br />Sorte: Malvasía Volcánica",
                     "price": "18.00€",
                     "allergies": [
                         "sulphites"
@@ -830,11 +830,11 @@
             ]
         },
         {
-            "title": "Vinos argentinos",
+            "title": "Argentinischer Wein",
             "foods": [
                 {
                     "title": "Trapiche Malbec",
-                    "subtitle": "Bodegas trapiche Mendoza<br />D.O. Mendoza Argentina<br />Variedad: 100% Malbec",
+                    "subtitle": "Bodegas trapiche Mendoza<br />D.O. Mendoza Argentina<br />Sorte: 100% Malbec",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -843,7 +843,7 @@
                 },
                 {
                     "title": "Trapiche Cabernet Sauvignon",
-                    "subtitle": "Bodegas trapiche Mendoza<br />D.O. Mendoza Argentina<br />Variedad: 100% Cabernet Sauvignon",
+                    "subtitle": "Bodegas trapiche Mendoza<br />D.O. Mendoza Argentina<br />Sorte: 100% Cabernet Sauvignon",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -852,7 +852,7 @@
                 },
                 {
                     "title": "Norton Malbec",
-                    "subtitle": "Bodegas Norton<br />D.O. Argentina<br />Variedad: 100% Malbec",
+                    "subtitle": "Bodegas Norton<br />D.O. Argentina<br />Sorte: 100% Malbec",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
@@ -861,7 +861,7 @@
                 },
                 {
                     "title": "Norton Cabernet Sauvignon",
-                    "subtitle": "Bodegas Norton Mendoza<br />D.O. Argentina<br />Variedad: 100% Cabernet Sauvignon",
+                    "subtitle": "Bodegas Norton Mendoza<br />D.O. Argentina<br />Sorte: 100% Cabernet Sauvignon",
                     "price": "17.00€",
                     "allergies": [
                         "sulphites"
