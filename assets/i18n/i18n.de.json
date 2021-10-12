@@ -26,7 +26,7 @@
             "title": "Vorspeisen",
             "foods": [
                 {
-                    "title": "Empanada de Carne",
+                    "title": "Teigtaschen mit Fleisch",
                     "subtitle": "",
                     "price": "2.50€",
                     "allergies": [
@@ -36,7 +36,7 @@
                     "img": "assets/images/menu/starters.jpg"
                 },
                 {
-                    "title": "Empanada de Humita",
+                    "title": "Teigtaschen mit Maisbrei",
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
@@ -44,10 +44,10 @@
                         "gluten",
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Empanada de Espinaca",
+                    "title": "Teigtaschen mit Spinat",
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
@@ -55,10 +55,10 @@
                         "gluten",
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Empanada de Molleja",
+                    "title": "Teigtaschen mit Kaumagen",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -67,7 +67,7 @@
                     ]
                 },
                 {
-                    "title": "Chorizo parrillero",
+                    "title": "Gegrillte Paprikawurst",
                     "subtitle": "",
                     "price": "2.90€",
                     "allergies": [
@@ -75,7 +75,7 @@
                     ]
                 },
                 {
-                    "title": "Morcilla Dulce y Salada",
+                    "title": "Süße und salzige Blutwurst",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
@@ -83,7 +83,7 @@
                     ]
                 },
                 {
-                    "title": "Molleja de ternera",
+                    "title": "Kaumagen vom Rind",
                     "subtitle": "",
                     "price": "10.90€",
                     "allergies": [
@@ -91,42 +91,42 @@
                     ]
                 },
                 {
-                    "title": "Salchichas Parrilleras El Búho Tuerto",
-                    "subtitle": "Salchichas, mozarela, provolone, cebollas",
+                    "title": "Grillwürstchen El Búho Tuerto",
+                    "subtitle": "Würstchen, Mozzarella, Käse (Provolone), Zwiebeln",
                     "price": "7.90€",
                     "allergies": [
                         "sulphites"
                     ]
                 },
                 {
-                    "title": "Queso provolone",
+                    "title": "Käse Provolone",
                     "subtitle": "",
                     "price": "7.50€",
                     "allergies": [
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Parrillada de verduras",
-                    "subtitle": "Calabacín, cebolla, tomates, esparragos, zetas, berenjenas, millo, pimientos asados",
+                    "title": "Grillgemüse",
+                    "subtitle": "Zucchini, Zwiebel, Tomaten, Spargel, Pilze, Auberginen, Hirse, gegrillte Paprika",
                     "price": "8.50€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Huevos rotos con pimientos al Alba",
+                    "title": "Kartoffeln mit Rührei und eingelegten Paprika",
                     "subtitle": "",
                     "price": "7.50€",
                     "allergies": [
                         "eggs"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Huevos rotos con chistorra",
-                    "subtitle": "",
+                    "title": "Kartoffeln mit Rührei und Chistorra",
+                    "subtitle": "Chistorra ist eine Wurstsorte aus Navarra (Nordspanien)",
                     "price": "8.50€",
                     "allergies": [
                         "eggs",
@@ -134,7 +134,7 @@
                     ]
                 },
                 {
-                    "title": "Huevos rotos con chorizo",
+                    "title": "Kartoffeln mit Rührei und Paprikawurst",
                     "subtitle": "",
                     "price": "8.00€",
                     "allergies": [
@@ -143,7 +143,7 @@
                     ]
                 },
                 {
-                    "title": "Huevos rotos con jamón",
+                    "title": "Kartoffeln mit Rührei und Schinken",
                     "subtitle": "",
                     "price": "8.90€",
                     "allergies": [
@@ -152,8 +152,8 @@
                     ]
                 },
                 {
-                    "title": "Mixta con atún",
-                    "subtitle": "Tomate, zenahoria, cebolla, aceitunas, millo, atún",
+                    "title": "Gemischter Salat mit Thunfisch",
+                    "subtitle": "Tomate, Karotte, Zwiebel, Oliven, Hirse, Thunfisch",
                     "price": "6.00€",
                     "allergies": [
                         "fish",
@@ -161,64 +161,64 @@
                     ]
                 },
                 {
-                    "title": "Mixta Argentina",
-                    "subtitle": "Tomate, lechuga, cebolla",
+                    "title": "Gemischter Salat Argentina",
+                    "subtitle": "Tomate, Kopfsalat, Zwiebel",
                     "price": "5.00€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Ensalada el Búho Tuerto",
-                    "subtitle": "Tomate cherry, rúcula, aguacate, palmitos, cebolla",
+                    "title": "Salat Búho Tuerto",
+                    "subtitle": "Kirschtomate, Rucola, Avocado, Palmherzen, Zwiebel",
                     "price": "8.90€",
                     "allergies": [
                         "sulphites"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Ensalada rulo de cabra",
-                    "subtitle": "Tomate, lechuga, frutos secos, cebolla caramelizada",
+                    "title": "Salat mit Ziegenkäse",
+                    "subtitle": "Tomate, Kopfsalat, Trockenfrüchte, karamellisierte Zwiebel",
                     "price": "8.90€",
                     "allergies": [
                         "lactose",
                         "eggs"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Ensalada rulo de rúcula",
-                    "subtitle": "Tomate, rúcula, queso parmesano, pimiento asado",
+                    "title": "Rucola Salat",
+                    "subtitle": "Tomaten, Rucola, Parmesan, gegrillte Paprika",
                     "price": "8.90€",
                     "allergies": [
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
                     "title": "Papas Panadera",
-                    "subtitle": "",
+                    "subtitle": "Bratkartoffeln mit Zwiebeln",
                     "price": "3.00€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Papas Fritas",
+                    "title": "Pommes",
                     "subtitle": "",
                     "price": "2.50€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 },
                 {
-                    "title": "Pimientos asados",
+                    "title": "Gegrillte Paprika",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarisch"
                 }
             ]
         },
