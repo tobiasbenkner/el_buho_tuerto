@@ -375,10 +375,10 @@
             ]
         },
         {
-            "title": "Postres",
+            "title": "Nachtisch",
             "foods": [
                 {
-                    "title": "Crumbell de Manzana",
+                    "title": "Apfelstreusel",
                     "subtitle": "",
                     "price": "4.20€",
                     "allergies": [
@@ -388,7 +388,7 @@
                 },
                 {
                     "title": "Polvito Uruguayo",
-                    "subtitle": "",
+                    "subtitle": "Kondensmilch, Butterkekse und Sahne",
                     "price": "3.50€",
                     "allergies": [
                         "gluten",
@@ -398,7 +398,7 @@
                     ]
                 },
                 {
-                    "title": "Semifrío con Oreo",
+                    "title": "Sahnekuchen mit Oreo",
                     "subtitle": "",
                     "price": "3.50€",
                     "allergies": [
@@ -408,7 +408,7 @@
                     ]
                 },
                 {
-                    "title": "Tarta de Chocolate",
+                    "title": "Schokoladenkuchen",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -418,8 +418,8 @@
                     ]
                 },
                 {
-                    "title": "Crepe de dulce de leche o chocolate",
-                    "subtitle": "",
+                    "title": "Crêpe",
+                    "subtitle": "Süße Kondensmilch oder Schokolade",
                     "price": "3.80€",
                     "allergies": [
                         "gluten",
@@ -428,7 +428,7 @@
                     ]
                 },
                 {
-                    "title": "Flan Casero",
+                    "title": "Hausgematcher Flan",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -437,8 +437,8 @@
                     ]
                 },
                 {
-                    "title": "Helado de Vainilla",
-                    "subtitle": "2 Bolas",
+                    "title": "Vanilleeis",
+                    "subtitle": "2 Kugeln",
                     "price": "2.50€",
                     "allergies": [
                         "lactose",
@@ -447,8 +447,8 @@
                     ]
                 },
                 {
-                    "title": "Helado de Dulce de Leche",
-                    "subtitle": "2 Bolas",
+                    "title": "Eis aus süßer Kondensmilch",
+                    "subtitle": "2 Kugeln",
                     "price": "2.90€",
                     "allergies": [
                         "lactose",
@@ -457,14 +457,14 @@
                     ]
                 },
                 {
-                    "title": "Extra Dulce de Leche",
+                    "title": "Süße Kodensmilch",
                     "subtitle": "",
                     "price": "1.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Extra de Nata",
+                    "title": "Sahne",
                     "subtitle": "",
                     "price": "0.50€",
                     "allergies": [
