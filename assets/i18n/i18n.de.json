@@ -223,75 +223,74 @@
             ]
         },
         {
-            "title": "Carnes a la brasa",
+            "title": "Gegrilltes Fleisch",
             "foods": [
                 {
-                    "title": "Chultetón de vaca curado (Galicia)",
-                    "subtitle": "Las carnes provienen de vacas de razas autóctonas de Galicia (rubia gallega, caldelá, limiá, cachena, vianesa, frieiresa...) con una maduración que hace que tenga un aroma y un sabor inigualable",
+                    "title": "Hochrippe vom Rind (Galicien)",
+                    "subtitle": "Das Fleisch stammt von Kühen einheimischer galicischer Rassen mit einer Reifung, die ihnen ein unvergleichliches Aroma und einen unvergleichlichen Geschmack verleiht.",
                     "price": "39.90€ (Kilo)",
                     "allergies": []
                 },
                 {
-                    "title": "Tira de asado",
-                    "subtitle": "El asado de tira se obtiene con el corte transversal del costillar de la res. Se encuentra en medio de otros dos clásicos cortes: las costillas, del lado más cercano a la columna vertbral",
+                    "title": "Querrippe",
+                    "subtitle": "Die Quer- oder Zwerchrippe ist das vordere Teilstück der Rippen vom Rind unterhalb von Rinderhals und Hochrippe.",
                     "price": "11.50€",
                     "allergies": []
                 },
                 {
-                    "title": "Solomillo",
-                    "subtitle": "El solomillo es una pieza de carne procedente de la parte lumbar, alojado entre las costillas inferiores y la columna vertebral",
+                    "title": "Rinderfilt",
+                    "subtitle": "Das Lendenstück ist ein Stück Fleisch aus der Lendenwirbelsäule, das zwischen den unteren Rippen und der Wirbelsäule liegt.",
                     "price": "16.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Entraña",
-                    "subtitle": "La entraña es un corte que corresponde a la parte periférica del diagragma del animal. Carne de color muy rojizo oscuro con una capa de cubre la carne y hace que al asarse sea más tierna y sabrosa",
+                    "title": "Kronfleisch",
+                    "subtitle": "Als Kronfleisch (vor allem in Bayern und Österreich) oder Saumfleisch wird küchensprachlich das Muskelfleisch im Zwerchfell des Rinds bezeichnet. Es ist selten in Deutschland zu finden.",
                     "price": "12.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Entrecot",
-                    "subtitle": "Es un corte de carne de la región dorsal, que contiene un músculo o más bien un conjunto de músculos del llamado Erector spinae, el cual recorre la espina dorsal de los mamíferos",
+                    "title": "Entrecôte",
+                    "subtitle": "Das Entrecôte ist ein Steak aus dem Zwischenrippenstück des Rinds, ähnlich dem Rib-Eye-Steak.",
                     "price": "14.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Lomo alto",
-                    "subtitle": "Es una carne limpia y sabrosa que se encuentra en la parte delantera del lomo y se caracteriza por su aspecto jugoso y su inflitración de grasa",
+                    "title": "Lende",
+                    "subtitle": "Es handelt sich um ein sauberes und schmackhaftes Fleisch, das im vorderen Teil der Lende zu finden ist und sich durch sein saftiges Aussehen und seine fettige Aufgedunsenheit auszeichnet.",
                     "price": "15.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Secreto ibérico",
-                    "subtitle": "El secreto ibérico es quizá el corte más conocido dentro del ibérico. Su grasa inflitrada le aporta ese veteado blanco tan característico.",
+                    "title": "Geheimnis des iberisches Schweines",
+                    "subtitle": "Das Secreto Ibérico ist vielleicht das bekannteste Stück iberischen Schweinefleischs. Sein Fett verleiht ihm eine charakteristische weiße Marmorierung.",
                     "price": "13.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Costialla de cerdo",
-                    "subtitle": "Las costiallas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes o´seas de la caja torácica",
+                    "title": "Schweinerippchen",
+                    "subtitle": "Schweinerippchen sind ein spezielles Stück Schweinefleisch, das sich vom Schweinekotelett unterscheidet. Dieser Schnitt enthält die knöchernen Teile des Brustkorbs.",
                     "price": "9.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Matambre de cerdo a la fugazzeta",
-                    "subtitle": "El Matambre a la Gugazzeta a la Parrilla es un plato típico, una variante del famoso Matambre a la Pizza. Un plato infaltable en el asado Argentino.",
+                    "title": "Schweinerouladen a la Fugazzeta",
+                    "subtitle": "Die Schweineroulade a la Fugazzeta ist ein typisches Gericht der argentinischen Küche. Die Schweineroulade wird als Pizza verarbeitet.",
                     "price": "14.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Medio pollo",
+                    "title": "Halbes Hähnchen",
                     "subtitle": "",
                     "price": "9.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Pamplona de pollo",
-                    "subtitle": "Relleno con zeta y bacón o panceta ahumada o jamón y queso",
+                    "title": "Hähnchenroullade",
+                    "subtitle": "Füllung mit Feta und Speck oder geräuchertem Speck oder Schinken und Käse",
                     "price": "9.90€",
                     "allergies": []
                 }
-                
             ]
         },
         {
