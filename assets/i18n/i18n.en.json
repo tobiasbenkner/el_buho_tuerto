@@ -223,7 +223,7 @@
             ]
         },
         {
-            "title": "Carnes a la brasa",
+            "title": "Grilled Meat",
             "foods": [
                 {
                     "title": "Galicia Rump and loins",
@@ -295,11 +295,11 @@
             ]
         },
         {
-            "title": "Cocina Argentina",
+            "title": "Argentine cuisine",
             "foods": [
                 {
-                    "title": "Milanesa de ternera",
-                    "subtitle": "Ternera empanada",
+                    "title": "Veal escalope",
+                    "subtitle": "",
                     "price": "10.00€",
                     "allergies": [
                         "gluten",
@@ -307,7 +307,7 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo",
+                    "title": "Chicken escalope",
                     "subtitle": "Pollo empanado",
                     "price": "7.90€",
                     "allergies": [
@@ -316,8 +316,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la Napolitana",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela",
+                    "title": "Veal escalope Napolitana",
+                    "subtitle": "with tomato sauce and mozzarella",
                     "price": "12.50€",
                     "allergies": [
                         "gluten",
@@ -326,8 +326,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la Napolitana",
-                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela",
+                    "title": "Chicken escalope Napolitana",
+                    "subtitle": "with tomato sauce and mozzarella",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -336,8 +336,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a caballo",
-                    "subtitle": "Ternera empanada con papas fritas, huevo frito montado",
+                    "title": "Veal escalope Caballo",
+                    "subtitle": "with fried egg",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -345,8 +345,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a caballo",
-                    "subtitle": "Pollo empanado con papas fritas, huevo frito montado",
+                    "title": "Chicken escalope Caballo",
+                    "subtitle": "with fried egg",
                     "price": "8.50€",
                     "allergies": [
                         "gluten",
@@ -354,8 +354,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la napolitana a caballo",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Veal escalope Napolitana and Caballo",
+                    "subtitle": "with tomato sauce, mozzarella and fried egg",
                     "price": "13.50€",
                     "allergies": [
                         "gluten",
@@ -364,8 +364,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la napolitana a caballo",
-                    "subtitle": "Pollo empanad0 con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Chicken escalope Napolitana and Caballo",
+                    "subtitle": "with tomato sauce, mozzarella and fried egg",
                     "price": "11.50€",
                     "allergies": [
                         "gluten",
