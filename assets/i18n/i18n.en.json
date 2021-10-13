@@ -226,68 +226,68 @@
             "title": "Carnes a la brasa",
             "foods": [
                 {
-                    "title": "Hochrippe vom Rind (Galicien)",
-                    "subtitle": "Das Fleisch stammt von Kühen einheimischer galicischer Rassen mit einer Reifung, die ihnen ein unvergleichliches Aroma und einen unvergleichlichen Geschmack verleiht.",
+                    "title": "Galicia Rump and loins",
+                    "subtitle": "The meat comes from cows from Galicia with a maturity that makes an unequal smell and taste",
                     "price": "39.90€ (Kilo)",
                     "allergies": []
                 },
                 {
-                    "title": "Tira de asado",
-                    "subtitle": "El asado de tira se obtiene con el corte transversal del costillar de la res. Se encuentra en medio de otros dos clásicos cortes: las costillas, del lado más cercano a la columna vertbral",
+                    "title": "The strip roast",
+                    "subtitle": "The strip roast comes from the transversal cut of the loin of the beef. It is between the ribs near the spine.",
                     "price": "11.50€",
                     "allergies": []
                 },
                 {
-                    "title": "Solomillo",
-                    "subtitle": "El solomillo es una pieza de carne procedente de la parte lumbar, alojado entre las costillas inferiores y la columna vertebral",
+                    "title": "Filet, Tenderloin",
+                    "subtitle": "The filet is a piece of meat situated in the lumbar part between the lower ribs and the spine",
                     "price": "16.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Entraña",
-                    "subtitle": "La entraña es un corte que corresponde a la parte periférica del diagragma del animal. Carne de color muy rojizo oscuro con una capa de cubre la carne y hace que al asarse sea más tierna y sabrosa",
+                    "title": "Thin Skirt",
+                    "subtitle": "The entrails is a cut that belongs to the peripheral part of the animal. The meat is dark red with a cap that covers the meat and makes it soft and delicious",
                     "price": "12.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Entrecot",
-                    "subtitle": "Es un corte de carne de la región dorsal, que contiene un músculo o más bien un conjunto de músculos del llamado Erector spinae, el cual recorre la espina dorsal de los mamíferos",
+                    "title": "Entrecote",
+                    "subtitle": "It is a cut from the spinal region that contains a muscle or group of muscles from the Erector spinae which runs along the spine of mammals",
                     "price": "14.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Lomo alto",
-                    "subtitle": "Es una carne limpia y sabrosa que se encuentra en la parte delantera del lomo y se caracteriza por su aspecto jugoso y su inflitración de grasa",
+                    "title": "Fore rib, Cube roll",
+                    "subtitle": "It is a clean and delicious meat in front of the loin. It has a juicy and fatty aspect",
                     "price": "15.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Secreto ibérico",
-                    "subtitle": "El secreto ibérico es quizá el corte más conocido dentro del ibérico. Su grasa inflitrada le aporta ese veteado blanco tan característico.",
+                    "title": "Iberic Secret",
+                    "subtitle": "The Iberic secret is maybe the most famous cut of the Iberic. It's filtered fats gives it that characteristic with color",
                     "price": "13.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Costialla de cerdo",
-                    "subtitle": "Las costiallas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes o´seas de la caja torácica",
+                    "title": "Pork ribs",
+                    "subtitle": "The pork ribs are a special pork cut different from the loin. This cut contains the bones of the rib cage",
                     "price": "9.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Matambre de cerdo a la fugazzeta",
-                    "subtitle": "El Matambre a la Gugazzeta a la Parrilla es un plato típico, una variante del famoso Matambre a la Pizza. Un plato infaltable en el asado Argentino.",
+                    "title": "Pork slaughter with onion and cheese",
+                    "subtitle": "Is a typical dish similar to the pizza slaughter. It can't be absent in the Argentine barbecue",
                     "price": "14.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Medio pollo",
+                    "title": "Half Chicken",
                     "subtitle": "",
                     "price": "9.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Pamplona de pollo",
-                    "subtitle": "Relleno con zeta y bacón o panceta ahumada o jamón y queso",
+                    "title": "Pamplona Chicken",
+                    "subtitle": "Filled with feta and bacon, smoked bacon or ham and cheese",
                     "price": "9.90€",
                     "allergies": []
                 }
