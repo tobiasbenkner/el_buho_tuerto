@@ -26,7 +26,7 @@
             "title": "Starters",
             "foods": [
                 {
-                    "title": "Empanada de Carne",
+                    "title": "Fried dough with meat filling",
                     "subtitle": "",
                     "price": "2.50€",
                     "allergies": [
@@ -36,7 +36,7 @@
                     "img": "assets/images/menu/starters.jpg"
                 },
                 {
-                    "title": "Empanada de Humita",
+                    "title": "Fried dough with corn filling",
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
@@ -44,10 +44,10 @@
                         "gluten",
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Empanada de Espinaca",
+                    "title": "Fried dough with spinach filling",
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
@@ -55,10 +55,10 @@
                         "gluten",
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Empanada de Molleja",
+                    "title": "Fried dough with veal gizzard filling",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -67,7 +67,7 @@
                     ]
                 },
                 {
-                    "title": "Chorizo parrillero",
+                    "title": "Barbecued Chorizo",
                     "subtitle": "",
                     "price": "2.90€",
                     "allergies": [
@@ -75,7 +75,7 @@
                     ]
                 },
                 {
-                    "title": "Morcilla Dulce y Salada",
+                    "title": "Blood Sausage sweet/salty",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
@@ -83,7 +83,7 @@
                     ]
                 },
                 {
-                    "title": "Molleja de ternera",
+                    "title": "Veal sweetreads",
                     "subtitle": "",
                     "price": "10.90€",
                     "allergies": [
@@ -91,41 +91,41 @@
                     ]
                 },
                 {
-                    "title": "Salchichas Parrilleras El Búho Tuerto",
-                    "subtitle": "Salchichas, mozarela, provolone, cebollas",
+                    "title": "Barbecue sausages El Búho Tuerto",
+                    "subtitle": "Sausages, mozzarella chesse, provolone cheese, onions",
                     "price": "7.90€",
                     "allergies": [
                         "sulphites"
                     ]
                 },
                 {
-                    "title": "Queso provolone",
+                    "title": "Provolone cheese",
                     "subtitle": "",
                     "price": "7.50€",
                     "allergies": [
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Parrillada de verduras",
-                    "subtitle": "Calabacín, cebolla, tomates, esparragos, zetas, berenjenas, millo, pimientos asados",
+                    "title": "Grilled Vegetables",
+                    "subtitle": "Zucchini, onions, tomatoes, asparagus, mushrooms, eggplants, corn, roasted peppers",
                     "price": "8.50€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Huevos rotos con pimientos al Alba",
+                    "title": "Fried eggs with roasted peppers",
                     "subtitle": "",
                     "price": "7.50€",
                     "allergies": [
                         "eggs"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Huevos rotos con chistorra",
+                    "title": "Fried eggs with Chistorra",
                     "subtitle": "",
                     "price": "8.50€",
                     "allergies": [
@@ -134,7 +134,7 @@
                     ]
                 },
                 {
-                    "title": "Huevos rotos con chorizo",
+                    "title": "Fried eggs with Chorizo",
                     "subtitle": "",
                     "price": "8.00€",
                     "allergies": [
@@ -143,7 +143,7 @@
                     ]
                 },
                 {
-                    "title": "Huevos rotos con jamón",
+                    "title": "Fried eggs with ham",
                     "subtitle": "",
                     "price": "8.90€",
                     "allergies": [
@@ -152,8 +152,8 @@
                     ]
                 },
                 {
-                    "title": "Mixta con atún",
-                    "subtitle": "Tomate, zenahoria, cebolla, aceitunas, millo, atún",
+                    "title": "Salad with tuna",
+                    "subtitle": "Tomato, carrot, onion, olives, millet, tuna fish",
                     "price": "6.00€",
                     "allergies": [
                         "fish",
@@ -161,64 +161,64 @@
                     ]
                 },
                 {
-                    "title": "Mixta Argentina",
-                    "subtitle": "Tomate, lechuga, cebolla",
+                    "title": "Salad Argentine",
+                    "subtitle": "Tomato, lettuce, onion",
                     "price": "5.00€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Ensalada el Búho Tuerto",
-                    "subtitle": "Tomate cherry, rúcula, aguacate, palmitos, cebolla",
+                    "title": "Salad Búho Tuerto",
+                    "subtitle": "Cherry tomato, arugula, avocado, palm hearts, onion",
                     "price": "8.90€",
                     "allergies": [
                         "sulphites"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Ensalada rulo de cabra",
-                    "subtitle": "Tomate, lechuga, frutos secos, cebolla caramelizada",
+                    "title": "Salad with goat cheese",
+                    "subtitle": "Tomato, lettuce, dried fruits, caramelized onions",
                     "price": "8.90€",
                     "allergies": [
                         "lactose",
-                        "eggs"
+                        "nuts"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Ensalada rulo de rúcula",
-                    "subtitle": "Tomate, rúcula, queso parmesano, pimiento asado",
+                    "title": "Salad with arugula",
+                    "subtitle": "Tomato, arugula, parmesan cheese, roasted bell pepper",
                     "price": "8.90€",
                     "allergies": [
                         "lactose"
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Papas Panadera",
+                    "title": "Fried potatoes",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Papas Fritas",
+                    "title": "Fries",
                     "subtitle": "",
                     "price": "2.50€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 },
                 {
-                    "title": "Pimientos asados",
+                    "title": "Roasted peppers",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
                     ],
-                    "special": "Vegetariana"
+                    "special": "vegetarian"
                 }
             ]
         },
