@@ -1,24 +1,25 @@
 {
+    "meat-image": "/assets/images/menu/meat-en.webp",
     "cooking" : [
         {
-            "title": "HECHO",
-            "subtitle" : "No queda rastros de tintes rojos y la mayoría de los jugos se han evaporado"
+            "title": "DONE",
+            "subtitle" : "Es gibt keine Anzeichen von Blut und der größte Teil der Säfte ist verdunstet"
         },
         {
-            "title": "TRES CUARTOS",
-            "subtitle" : "Empieza a pasar de rojo a un color café claro y las orillas tienen una cocción perfecta"
+            "title": "THREE QUARTERS",
+            "subtitle" : "Die Farbe geht von Rot zu einer hellen Kaffeefarbe über und in den äußeren Teilen hat sie eine perfekte Kocheigenschaft"
         },
         {
-            "title": "AL PUNTO",
-            "subtitle" : "Considerado el término ideal pues se encuentra entre casi la crudeza total y la cocción absouta"
+            "title": "READY",
+            "subtitle" : "Er gilt als der ideale Zustand. Er liegt zwischen Rohheit und absolutem Kochen"
         },
         {
-            "title": "MEDIO HECHO",
-            "subtitle" : "Sellada por ambos lados y el centro Permanece crudo y de un color rojo vivo"
+            "title": "HALF DONE",
+            "subtitle" : "Von beiden Seiten verschlossen und die Mitte bleibt roh und dunkelrot"
         },
         {
-            "title": "POCO HECHO",
-            "subtitle" : "Capa bien cocida y el centro crudo"
+            "title": "LITTLE DONE",
+            "subtitle" : "Oberfläche ist gut durchgebraten und die Mitte roh"
         }
     ],
     "menu" : [
