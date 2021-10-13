@@ -109,7 +109,7 @@
                 },
                 {
                     "title": "Parrillada de verduras",
-                    "subtitle": "Calabacín, cebolla, tomates, esparragos, zetas, berenjenas, millo, pimientos asados",
+                    "subtitle": "Calabacín, cebolla, tomates, esparragos, setas, berenjenas, millo, pimientos asados",
                     "price": "8.50€",
                     "allergies": [
                     ],
@@ -183,7 +183,7 @@
                     "price": "8.90€",
                     "allergies": [
                         "lactose",
-                        "eggs"
+                        "nuts"
                     ],
                     "special": "Vegetariana"
                 },
@@ -269,13 +269,13 @@
                 },
                 {
                     "title": "Costialla de cerdo",
-                    "subtitle": "Las costiallas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes o´seas de la caja torácica",
+                    "subtitle": "Las costiallas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes óseas de la caja torácica",
                     "price": "9.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Matambre de cerdo a la fugazzeta",
-                    "subtitle": "El Matambre a la Gugazzeta a la Parrilla es un plato típico, una variante del famoso Matambre a la Pizza. Un plato infaltable en el asado Argentino.",
+                    "title": "Matambre de cerdo a la Fugazzeta",
+                    "subtitle": "El Matambre a la Fugazzeta a la Parrilla es un plato típico, una variante del famoso Matambre a la Pizza. Un plato infaltable en el asado Argentino.",
                     "price": "14.90€",
                     "allergies": []
                 },
@@ -365,7 +365,7 @@
                 },
                 {
                     "title": "Milanesa de pollo a la napolitana a caballo",
-                    "subtitle": "Pollo empanad0 con salsa de tomate y mozzarela, huevo frito montado",
+                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela, huevo frito montado",
                     "price": "11.50€",
                     "allergies": [
                         "gluten",
@@ -493,17 +493,17 @@
                     ]
                 },
                 {
-                    "title": "Clara de grifo",
+                    "title": "Jarra",
                     "subtitle": "",
-                    "price": "2.20€",
+                    "price": "3.90€",
                     "allergies": [
                         "sulphites"
                     ]
                 },
                 {
-                    "title": "Jarra",
+                    "title": "Clara de grifo",
                     "subtitle": "",
-                    "price": "3.90€",
+                    "price": "2.20€",
                     "allergies": [
                         "sulphites"
                     ]
