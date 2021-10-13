@@ -376,10 +376,10 @@
             ]
         },
         {
-            "title": "Postres",
+            "title": "Desserts",
             "foods": [
                 {
-                    "title": "Crumbell de Manzana",
+                    "title": "Apple crumble",
                     "subtitle": "",
                     "price": "4.20€",
                     "allergies": [
@@ -388,7 +388,7 @@
                     ]
                 },
                 {
-                    "title": "Polvito Uruguayo",
+                    "title": "Uruguayan desert",
                     "subtitle": "",
                     "price": "3.50€",
                     "allergies": [
@@ -399,7 +399,7 @@
                     ]
                 },
                 {
-                    "title": "Semifrío con Oreo",
+                    "title": "Gold oreo cake",
                     "subtitle": "",
                     "price": "3.50€",
                     "allergies": [
@@ -409,7 +409,7 @@
                     ]
                 },
                 {
-                    "title": "Tarta de Chocolate",
+                    "title": "Chocolate cake",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -419,7 +419,7 @@
                     ]
                 },
                 {
-                    "title": "Crepe de dulce de leche o chocolate",
+                    "title": "Crepe with condensed milk caramel or chocolate",
                     "subtitle": "",
                     "price": "3.80€",
                     "allergies": [
@@ -429,7 +429,7 @@
                     ]
                 },
                 {
-                    "title": "Flan Casero",
+                    "title": "Homemade Flan",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -438,8 +438,8 @@
                     ]
                 },
                 {
-                    "title": "Helado de Vainilla",
-                    "subtitle": "2 Bolas",
+                    "title": "Ice cream vanilla",
+                    "subtitle": "2 balls",
                     "price": "2.50€",
                     "allergies": [
                         "lactose",
@@ -448,8 +448,8 @@
                     ]
                 },
                 {
-                    "title": "Helado de Dulce de Leche",
-                    "subtitle": "2 Bolas",
+                    "title": "Ice cream condensed milk caramel",
+                    "subtitle": "2 balls",
                     "price": "2.90€",
                     "allergies": [
                         "lactose",
@@ -458,14 +458,14 @@
                     ]
                 },
                 {
-                    "title": "Extra Dulce de Leche",
+                    "title": "Extra condensed milk caramel",
                     "subtitle": "",
                     "price": "1.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Extra de Nata",
+                    "title": "Extra cream",
                     "subtitle": "",
                     "price": "0.50€",
                     "allergies": [
