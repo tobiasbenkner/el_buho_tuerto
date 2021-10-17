@@ -96,7 +96,8 @@
                     "subtitle": "Würstchen, Mozzarella, Käse (Provolone), Zwiebeln",
                     "price": "7.90€",
                     "allergies": [
-                        "sulphites"
+                        "sulphites",
+                        "lactose"
                     ]
                 },
                 {
@@ -289,7 +290,7 @@
                 {
                     "title": "Hähnchenroullade",
                     "subtitle": "Füllung mit Feta und Speck oder geräuchertem Speck oder Schinken und Käse",
-                    "price": "9.90€",
+                    "price": "8.90€",
                     "allergies": []
                 }
             ]
@@ -568,14 +569,14 @@
                     ]
                 },
                 {
-                    "title": "Mineralwasser mit und ohne Kohlensäure",
+                    "title": "Mineralwasser mit oder ohne Kohlensäure",
                     "subtitle": "0.50 cl",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Mineralwasser mit und ohne Kohlensäure",
+                    "title": "Mineralwasser mit oder ohne Kohlensäure",
                     "subtitle": "0.33 cl",
                     "price": "1.60€",
                     "allergies": [
@@ -849,7 +850,7 @@
                     "allergies": [
                         "sulphites"
                     ],
-                    "special": "17% vol"
+                    "special": "14% vol"
                 },
                 {
                     "title": "Norton Malbec",

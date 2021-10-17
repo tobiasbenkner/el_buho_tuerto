@@ -96,7 +96,8 @@
                     "subtitle": "Salchichas, mozarela, provolone, cebollas",
                     "price": "7.90€",
                     "allergies": [
-                        "sulphites"
+                        "sulphites",
+                        "lactose"
                     ]
                 },
                 {
@@ -289,7 +290,7 @@
                 {
                     "title": "Pamplona de pollo",
                     "subtitle": "Relleno con zeta y bacón o panceta ahumada o jamón y queso",
-                    "price": "9.90€",
+                    "price": "8.90€",
                     "allergies": []
                 }
                 
@@ -569,14 +570,14 @@
                     ]
                 },
                 {
-                    "title": "Agua firgas c/s gaso",
+                    "title": "Agua Firgas con y sin gas",
                     "subtitle": "0.50 cl",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Agua firgas c/s gaso",
+                    "title": "Agua con y sin gas",
                     "subtitle": "0.33 cl",
                     "price": "1.60€",
                     "allergies": [
@@ -850,7 +851,7 @@
                     "allergies": [
                         "sulphites"
                     ],
-                    "special": "17% vol"
+                    "special": "14% vol"
                 },
                 {
                     "title": "Norton Malbec",
