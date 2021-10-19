@@ -301,7 +301,7 @@
             "title": "Cocina Argentina",
             "foods": [
                 {
-                    "title": "Carne de ternera empanada",
+                    "title": "Ternera empanada",
                     "subtitle": "",
                     "price": "10.00€",
                     "allergies": [
@@ -319,8 +319,8 @@
                     ]
                 },
                 {
-                    "title": "Ternera empanada con salsa de tomate y mozzarela",
-                    "subtitle": "",
+                    "title": "Ternera empanada a la napolitana",
+                    "subtitle": "con salsa de tomate y mozzarela",
                     "price": "12.50€",
                     "allergies": [
                         "gluten",
@@ -329,8 +329,8 @@
                     ]
                 },
                 {
-                    "title": "Pollo empanado con salsa de tomate y mozzarela",
-                    "subtitle": "",
+                    "title": "Pollo empanado a la napolitana",
+                    "subtitle": "con salsa de tomate y mozzarela",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -339,8 +339,8 @@
                     ]
                 },
                 {
-                    "title": "Ternera empanada con papas fritas y huevo frito montado",
-                    "subtitle": "",
+                    "title": "Ternera empanada a caballo",
+                    "subtitle": "con papas fritas y huevo frito montado",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -348,8 +348,8 @@
                     ]
                 },
                 {
-                    "title": "Pollo empanado con papas fritas y huevo frito montado",
-                    "subtitle": "",
+                    "title": "Pollo empanado a caballo",
+                    "subtitle": "con papas fritas y huevo frito montado",
                     "price": "8.50€",
                     "allergies": [
                         "gluten",
@@ -357,8 +357,8 @@
                     ]
                 },
                 {
-                    "title": "Ternera empanada con salsa de tomate y mozzarela, papas fritas y huevo frito montado",
-                    "subtitle": "",
+                    "title": "Ternera empanada a la napolitana a caballo",
+                    "subtitle": "con salsa de tomate y mozzarela, papas fritas y huevo frito montado",
                     "price": "13.50€",
                     "allergies": [
                         "gluten",
@@ -367,8 +367,8 @@
                     ]
                 },
                 {
-                    "title": "Pollo empanado con salsa de tomate y mozzarela, papas fritas y huevo frito montado",
-                    "subtitle": "",
+                    "title": "Pollo empanado a la napolitana a caballo",
+                    "subtitle": "con salsa de tomate y mozzarela, papas fritas y huevo frito montado",
                     "price": "11.50€",
                     "allergies": [
                         "gluten",
