@@ -271,8 +271,8 @@
                     "allergies": []
                 },
                 {
-                    "title": "Costialla de cerdo",
-                    "subtitle": "Las costiallas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes óseas de la caja torácica",
+                    "title": "Costilla de cerdo",
+                    "subtitle": "Las costillas de cerdo son un corte especial del cerdo, diferente de la chuleta. Este corte contiene las partes óseas de la caja torácica",
                     "price": "9.90€",
                     "allergies": []
                 },
@@ -613,7 +613,7 @@
                     ]
                 },
                 {
-                    "title": "Fanta Límon",
+                    "title": "Fanta Limón",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
