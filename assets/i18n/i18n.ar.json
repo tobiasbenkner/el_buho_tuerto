@@ -155,7 +155,7 @@
                     ]
                 },
                 {
-                    "title": "Mixta con atún",
+                    "title": "Ensalada Mixta con atún",
                     "subtitle": "Tomate, zenahoria, cebolla, aceitunas, millo, atún",
                     "price": "6.00€",
                     "allergies": [
@@ -164,7 +164,7 @@
                     ]
                 },
                 {
-                    "title": "Mixta Argentina",
+                    "title": "Ensalada Mixta",
                     "subtitle": "Tomate, lechuga, cebolla",
                     "price": "5.00€",
                     "allergies": [
@@ -191,7 +191,7 @@
                     "special": "Vegetariana"
                 },
                 {
-                    "title": "Ensalada rulo de rúcula",
+                    "title": "Ensalada de rúcula",
                     "subtitle": "Tomate, rúcula, queso parmesano, pimiento asado",
                     "price": "8.90€",
                     "allergies": [
@@ -200,7 +200,7 @@
                     "special": "Vegetariana"
                 },
                 {
-                    "title": "Papas Panadera",
+                    "title": "Papas Panaderas",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
@@ -229,7 +229,7 @@
             "title": "Carnes a la brasa",
             "foods": [
                 {
-                    "title": "Chultetón de vaca curado (Galicia)",
+                    "title": "Bife de costilla de vaca curado (Galicia)",
                     "subtitle": "Las carnes provienen de vacas de razas autóctonas de Galicia (rubia gallega, caldelá, limiá, cachena, vianesa, frieiresa...) con una maduración que hace que tenga un aroma y un sabor inigualable",
                     "price": "39.90€ (Kilo)",
                     "allergies": []
@@ -253,13 +253,13 @@
                     "allergies": []
                 },
                 {
-                    "title": "Entrecot",
+                    "title": "Bife de chorizo",
                     "subtitle": "Es un corte de carne de la región dorsal, que contiene un músculo o más bien un conjunto de músculos del llamado Erector spinae, el cual recorre la espina dorsal de los mamíferos",
                     "price": "14.90€",
                     "allergies": []
                 },
                 {
-                    "title": "Lomo alto",
+                    "title": "Bife del ojo",
                     "subtitle": "Es una carne limpia y sabrosa que se encuentra en la parte delantera del lomo y se caracteriza por su aspecto jugoso y su inflitración de grasa",
                     "price": "15.90€",
                     "allergies": []
@@ -302,7 +302,7 @@
             "foods": [
                 {
                     "title": "Milanesa de ternera",
-                    "subtitle": "Ternera empanada",
+                    "subtitle": "",
                     "price": "10.00€",
                     "allergies": [
                         "gluten",
@@ -311,7 +311,7 @@
                 },
                 {
                     "title": "Milanesa de pollo",
-                    "subtitle": "Pollo empanado",
+                    "subtitle": "",
                     "price": "7.90€",
                     "allergies": [
                         "gluten",
@@ -319,8 +319,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la Napolitana",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela",
+                    "title": "Milanesa a la napolitana",
+                    "subtitle": "con salsa de tomate y mozzarela",
                     "price": "12.50€",
                     "allergies": [
                         "gluten",
@@ -329,8 +329,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la Napolitana",
-                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela",
+                    "title": "Milanesa de pollo a la napolitana",
+                    "subtitle": "con salsa de tomate y mozzarela",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -339,8 +339,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a caballo",
-                    "subtitle": "Ternera empanada con papas fritas, huevo frito montado",
+                    "title": "Milanesa de carne a caballo",
+                    "subtitle": "con papas fritas, huevo frito montado",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -349,7 +349,7 @@
                 },
                 {
                     "title": "Milanesa de pollo a caballo",
-                    "subtitle": "Pollo empanado con papas fritas, huevo frito montado",
+                    "subtitle": "con papas fritas, huevo frito montado",
                     "price": "8.50€",
                     "allergies": [
                         "gluten",
@@ -357,8 +357,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la napolitana a caballo",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Milanesa de carne a la napolitana a caballo",
+                    "subtitle": "con salsa de tomate y mozzarela, huevo frito montado",
                     "price": "13.50€",
                     "allergies": [
                         "gluten",
@@ -368,7 +368,7 @@
                 },
                 {
                     "title": "Milanesa de pollo a la napolitana a caballo",
-                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela, huevo frito montado",
+                    "subtitle": "con salsa de tomate y mozzarela, huevo frito montado",
                     "price": "11.50€",
                     "allergies": [
                         "gluten",
@@ -412,7 +412,7 @@
                     ]
                 },
                 {
-                    "title": "Tarta de Chocolate",
+                    "title": "Torta de chocolate",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -422,7 +422,7 @@
                     ]
                 },
                 {
-                    "title": "Crepe de dulce de leche o chocolate",
+                    "title": "Panqueque de dulce de leche o chocolate",
                     "subtitle": "",
                     "price": "3.80€",
                     "allergies": [
@@ -461,14 +461,14 @@
                     ]
                 },
                 {
-                    "title": "Extra Dulce de Leche",
+                    "title": "Extra de dulce de leche",
                     "subtitle": "",
                     "price": "1.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Extra de Nata",
+                    "title": "Extra de crema",
                     "subtitle": "",
                     "price": "0.50€",
                     "allergies": [
@@ -480,7 +480,7 @@
             "title": "Bebidas",
             "foods": [
                 {
-                    "title": "Caña pequeña",
+                    "title": "Cerveza tirada Pequeña",
                     "subtitle": "",
                     "price": "1.60€",
                     "allergies": [
@@ -488,7 +488,7 @@
                     ]
                 },
                 {
-                    "title": "Caña mediana",
+                    "title": "Cerveza tirada Mediana",
                     "subtitle": "",
                     "price": "1.80€",
                     "allergies": [
@@ -504,7 +504,7 @@
                     ]
                 },
                 {
-                    "title": "Clara de grifo",
+                    "title": "Clarita tirada",
                     "subtitle": "",
                     "price": "2.20€",
                     "allergies": [
@@ -564,7 +564,7 @@
                     ]
                 },
                 {
-                    "title": "Zumo envasado",
+                    "title": "Jugo de frutas embasado",
                     "subtitle": "Lambra Sabores Tropicales",
                     "price": "1.50€",
                     "allergies": [
@@ -613,21 +613,21 @@
                     ]
                 },
                 {
-                    "title": "Fantá límon",
+                    "title": "Fanta Límon",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Fantá Naranja",
+                    "title": "Fanta Naranja",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Toníca",
+                    "title": "Tónica",
                     "subtitle": "",
                     "price": "2.00€",
                     "allergies": [

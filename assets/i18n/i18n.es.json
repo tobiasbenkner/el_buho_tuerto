@@ -28,7 +28,7 @@
             "title": "Entrantes",
             "foods": [
                 {
-                    "title": "Empanada de Carne",
+                    "title": "Empanadilla de Carne",
                     "subtitle": "",
                     "price": "2.50€",
                     "allergies": [
@@ -38,7 +38,7 @@
                     "img": "assets/images/menu/starters.jpg"
                 },
                 {
-                    "title": "Empanada de Humita",
+                    "title": "Empanadilla de Humita",
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
@@ -49,7 +49,7 @@
                     "special": "Vegetariana"
                 },
                 {
-                    "title": "Empanada de Espinaca",
+                    "title": "Empanadilla de Espinaca",
                     "subtitle": "",
                     "price": "2.30€",
                     "allergies": [
@@ -60,7 +60,7 @@
                     "special": "Vegetariana"
                 },
                 {
-                    "title": "Empanada de Molleja",
+                    "title": "Empanadilla de Molleja",
                     "subtitle": "",
                     "price": "3.20€",
                     "allergies": [
@@ -155,7 +155,7 @@
                     ]
                 },
                 {
-                    "title": "Mixta con atún",
+                    "title": "Ensalada Mixta",
                     "subtitle": "Tomate, zenahoria, cebolla, aceitunas, millo, atún",
                     "price": "6.00€",
                     "allergies": [
@@ -164,7 +164,7 @@
                     ]
                 },
                 {
-                    "title": "Mixta Argentina",
+                    "title": "Ensalda Mixta Argentina",
                     "subtitle": "Tomate, lechuga, cebolla",
                     "price": "5.00€",
                     "allergies": [
@@ -191,7 +191,7 @@
                     "special": "Vegetariana"
                 },
                 {
-                    "title": "Ensalada rulo de rúcula",
+                    "title": "Ensalada de rúcula",
                     "subtitle": "Tomate, rúcula, queso parmesano, pimiento asado",
                     "price": "8.90€",
                     "allergies": [
@@ -200,7 +200,7 @@
                     "special": "Vegetariana"
                 },
                 {
-                    "title": "Papas Panadera",
+                    "title": "Papas Panaderas",
                     "subtitle": "",
                     "price": "3.00€",
                     "allergies": [
@@ -229,7 +229,7 @@
             "title": "Carnes a la brasa",
             "foods": [
                 {
-                    "title": "Chultetón de vaca curado (Galicia)",
+                    "title": "Chuletón de vaca curado (Galicia)",
                     "subtitle": "Las carnes provienen de vacas de razas autóctonas de Galicia (rubia gallega, caldelá, limiá, cachena, vianesa, frieiresa...) con una maduración que hace que tenga un aroma y un sabor inigualable",
                     "price": "39.90€ (Kilo)",
                     "allergies": []
@@ -301,8 +301,8 @@
             "title": "Cocina Argentina",
             "foods": [
                 {
-                    "title": "Milanesa de ternera",
-                    "subtitle": "Ternera empanada",
+                    "title": "Carne de ternera empanada",
+                    "subtitle": "",
                     "price": "10.00€",
                     "allergies": [
                         "gluten",
@@ -310,8 +310,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo",
-                    "subtitle": "Pollo empanado",
+                    "title": "Pollo empanado",
+                    "subtitle": "",
                     "price": "7.90€",
                     "allergies": [
                         "gluten",
@@ -319,8 +319,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la Napolitana",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela",
+                    "title": "Ternera empanada con salsa de tomate y mozzarela",
+                    "subtitle": "",
                     "price": "12.50€",
                     "allergies": [
                         "gluten",
@@ -329,8 +329,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la Napolitana",
-                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela",
+                    "title": "Pollo empanado con salsa de tomate y mozzarela",
+                    "subtitle": "",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -339,8 +339,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a caballo",
-                    "subtitle": "Ternera empanada con papas fritas, huevo frito montado",
+                    "title": "Ternera empanada con papas fritas y huevo frito montado",
+                    "subtitle": "",
                     "price": "10.50€",
                     "allergies": [
                         "gluten",
@@ -348,8 +348,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a caballo",
-                    "subtitle": "Pollo empanado con papas fritas, huevo frito montado",
+                    "title": "Pollo empanado con papas fritas y huevo frito montado",
+                    "subtitle": "",
                     "price": "8.50€",
                     "allergies": [
                         "gluten",
@@ -357,8 +357,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de ternera a la napolitana a caballo",
-                    "subtitle": "Ternera empanada con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Ternera empanada con salsa de tomate y mozzarela, papas fritas y huevo frito montado",
+                    "subtitle": "",
                     "price": "13.50€",
                     "allergies": [
                         "gluten",
@@ -367,8 +367,8 @@
                     ]
                 },
                 {
-                    "title": "Milanesa de pollo a la napolitana a caballo",
-                    "subtitle": "Pollo empanada con salsa de tomate y mozzarela, huevo frito montado",
+                    "title": "Pollo empanado con salsa de tomate y mozzarela, papas fritas y huevo frito montado",
+                    "subtitle": "",
                     "price": "11.50€",
                     "allergies": [
                         "gluten",
@@ -461,14 +461,14 @@
                     ]
                 },
                 {
-                    "title": "Extra Dulce de Leche",
+                    "title": "Extra de dulce de leche",
                     "subtitle": "",
                     "price": "1.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Extra de Nata",
+                    "title": "Extra de nata",
                     "subtitle": "",
                     "price": "0.50€",
                     "allergies": [
@@ -613,21 +613,21 @@
                     ]
                 },
                 {
-                    "title": "Fantá límon",
+                    "title": "Fanta Límon",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Fantá Naranja",
+                    "title": "Fanta Naranja",
                     "subtitle": "350 ml",
                     "price": "2.00€",
                     "allergies": [
                     ]
                 },
                 {
-                    "title": "Toníca",
+                    "title": "Tónica",
                     "subtitle": "",
                     "price": "2.00€",
                     "allergies": [
